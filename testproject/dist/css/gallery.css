@@ -1,0 +1,30 @@
+.img-responsive{
+	cursor:pointer;
+}
+
+.controls{          
+    width:50px;
+    display:block;
+    font-size:11px;
+    padding-top:8px;
+    font-weight:bold;          
+    }
+	
+.next {
+    float:right;
+    text-align:right;
+}
+/*override modal for demo only*/
+.modal-dialog {
+	max-width:500px;
+	padding-top: 90px;
+}
+
+.modal-body {
+    padding:5px !important;
+}
+
+.modal-dialog img {
+	text-align:center;
+	margin:0 auto;
+}
